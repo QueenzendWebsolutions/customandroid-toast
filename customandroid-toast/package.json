@@ -1,0 +1,61 @@
+{
+    "_from": "customandroid-toast",
+    "_id": "customandroid-toast@1.0.0",
+    "_inBundle": false,
+    "_integrity": "sha512-0VttqD1YLZkbfKEFCBfewx7fUwKi13VdZ/KV1rHNDJ/EimBWgWHR3u+G2fDchQTwqqyOYfF5/A11rNdKs3U9jQ==",
+    "_location": "/customandroid-toast",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "tag",
+        "registry": true,
+        "raw": "customandroid-toast",
+        "name": "customandroid-toast",
+        "escapedName": "customandroid-toast",
+        "rawSpec": "",
+        "saveSpec": null,
+        "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/customandroid-toast/-/customandroid-toast-1.0.0.tgz",
+    "_shasum": "51e167d0c50f3c96c4c1553182bda3f6887521a3",
+    "_spec": "customandroid-toast",
+    "_where": "/Users/queenzend/Desktop/DemoApp",
+    "author": {
+        "name": "Nikola Brežnjak",
+        "email": "nikola.breznjak@gmail.com",
+        "url": "http://www.nikola-breznjak.com/blog"
+    },
+    "bugs": {
+        "url": "https://github.com/QueenzendWebsolutions/customandroid-toast/issues"
+    },
+    "bundleDependencies": false,
+    "cordova": {
+        "id": "customandroid-toast",
+        "platforms": [
+            "android"
+        ]
+    },
+    "deprecated": false,
+    "description": "Android Toast Plugin",
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.0.0"
+    }],
+    "homepage": "https://github.com/QueenzendWebsolutions/customandroid-toast#readme",
+    "keywords": [
+        "android",
+        "toast",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "license": "Apache 2.0",
+    "name": "customandroid-toast",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/QueenzendWebsolutions/customandroid-toast.git"
+    },
+    "version": "1.0.0"
+}
